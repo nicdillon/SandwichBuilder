@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandwichBuilder", "SandwichBuilder\SandwichBuilder.csproj", "{0D36AE8F-244B-4E8C-B110-71ADD89C2742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D36AE8F-244B-4E8C-B110-71ADD89C2742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D36AE8F-244B-4E8C-B110-71ADD89C2742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D36AE8F-244B-4E8C-B110-71ADD89C2742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D36AE8F-244B-4E8C-B110-71ADD89C2742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0450F9C1-7054-477E-9BDB-EEA92F527D98}
+	EndGlobalSection
+EndGlobal
